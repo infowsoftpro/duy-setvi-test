@@ -1,0 +1,13 @@
+.container {
+  margin-top: 52px;
+
+  .headerSection {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 24px;
+  }
+
+  .table {
+    min-height: 600px;
+  }
+}

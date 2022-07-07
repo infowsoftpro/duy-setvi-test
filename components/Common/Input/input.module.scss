@@ -1,0 +1,14 @@
+@import '../../../styles/globalStyles.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  .label {
+    color: $text-color;
+  }
+
+  .error {
+    color: $error-color;
+  }
+}

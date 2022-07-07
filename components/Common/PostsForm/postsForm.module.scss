@@ -1,0 +1,17 @@
+.container {
+  .containerInput {
+    display: flex;
+    flex-direction: column;
+    padding-top: 24px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 24px;
+
+    .submitButton {
+      margin-left: 12px;
+    }
+  }
+}
